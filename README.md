@@ -32,11 +32,11 @@
 
 | Browser | Store Installation | Manual Installation |
 |---------|-----------------|-------------------|
-| **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/google-play.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
+| **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/chrome.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
 | **Firefox** | ![Firefox Add-ons](https://img.icons8.com/color/24/000000/firefox.png) [Firefox Add-ons](https://addons.mozilla.org/) | ![Firefox](https://img.icons8.com/color/24/000000/firefox.png) `Load Temporary Add-on` |
 | **Brave** | ![Brave Store](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Brave](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) `Load unpacked` |
 | **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://microsoftedge.microsoft.com/addons/) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
-| **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) [Sorry, No Money] | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
+| **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) Not Available | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
 
 ---
 
