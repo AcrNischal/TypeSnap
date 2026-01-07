@@ -1,53 +1,73 @@
-# TypeSnap
+# TypeSnap 🚀
 
-**TypeSnap** is a powerful, privacy-focused text expander extension for your browser. Boost your productivity by creating custom text snippets and expanding them instantly on any website.
+![TypeSnap Logo](https://img.icons8.com/fluency/48/000000/text.png)
+
+**TypeSnap** is a sleek, privacy-first text expander extension for your browser. Expand your productivity with instant custom snippets anywhere on the web.
+
+---
 
 ## ✨ Features
 
-*   **Text Expansion**: Type a short trigger (e.g., `/em`) to instantly expand it into a full email address or phrase.
-*   **Spotlight Search**: Press `Ctrl + /` (or `Cmd + /` on Mac) anywhere to open a global search overlay for your snippets.
-*   **Omnibox Integration**: Type `pt` <kbd>Space</kbd> in your address bar to search and navigate to URL snippets directly.
-*   **Rich Management**: Organize snippets with categories (General, Work, Email, etc.) and mark favorites.
-*   **Audio Feedback**: Optional satisfying sound effects when expanding snippets.
-*   **Privacy First**: All data is stored locally in your browser. No cloud sync, no tracking.
-*   **Theme Aware**: Automatically adapts to your system's light or dark mode.
-*   **Data Backup**: Easy Import/Export of your snippets to JSON.
+- **Text Expansion**: Type a short trigger (e.g., `/em`) to expand it into a full email or phrase instantly.
+- **Spotlight Search**: Press <kbd>Ctrl</kbd> + <kbd>/</kbd> (or <kbd>Cmd</kbd> + <kbd>/</kbd> on Mac) to search snippets globally.
+- **Omnibox Integration**: Type `pt` <kbd>Space</kbd> in your browser address bar to search & navigate URL snippets.
+- **Organized Snippets**: Categorize snippets (General, Work, Email, etc.) and mark favorites.
+- **Audio Feedback**: Optional satisfying sound effects when snippets expand.
+- **Privacy First**: All data stays local. No cloud sync. No tracking. 😎
+- **Theme Aware**: Auto adapts to your system Light/Dark mode.
+- **Backup & Restore**: Import/export your snippets via JSON easily.
+
+---
+
+## 🌐 Supported Browsers
+
+| Chrome | Firefox | Brave | Edge | Safari |
+|--------|---------|-------|------|--------|
+| ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/color/48/000000/brave.png) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
+
+---
 
 ## 🚀 Installation
 
 ### Chrome / Edge / Brave
-1.  Clone or download this repository.
-2.  Open `chrome://extensions/`.
-3.  Enable **Developer mode** (toggle in the top right).
-4.  Click **Load unpacked**.
-5.  Select the folder containing this project.
+1. Clone or download the repo.
+2. Open `chrome://extensions/`.
+3. Enable **Developer mode**.
+4. Click **Load unpacked**.
+5. Select this project folder.
 
 ### Firefox
-1.  Clone or download this repository.
-2.  Open `about:debugging#/runtime/this-firefox`.
-3.  Click **Load Temporary Add-on...**.
-4.  Select the `manifest-firefox.json` file (or any file in the directory).
+1. Clone or download the repo.
+2. Open `about:debugging#/runtime/this-firefox`.
+3. Click **Load Temporary Add-on...**.
+4. Select `manifest-firefox.json` (or any file in the directory).
+
+---
 
 ## 📖 Usage
 
 ### Creating Snippets
-1.  Click the extension icon or open the Options page per the instructions in the popup.
-2.  Click **New Snippet**.
-3.  Enter a **Trigger** (e.g., `/sig`) and the **Content** you want to expand.
-4.  (Optional) Assign a category or mark as favorite.
+1. Click the extension icon or open **Options**.
+2. Click **New Snippet**.
+3. Enter a **Trigger** (e.g., `/sig`) and **Content**.
+4. Optionally assign a category or mark favorite.
 
 ### Using Snippets
-*   **Type & Expand**: On any webpage, type your trigger (e.g., `/sig`) into a text field. It will instantly be replaced with your content.
-*   **Spotlight**: Press `Ctrl + /` to open the overlay. Type to search. Press **Enter** to copy text snippets or navigate to URL snippets.
-*   **Address Bar**: Type `pt` then space, then type your query to find snippets.
+- **Type & Expand**: Type your trigger on any webpage. Boom! Content appears. 💥
+- **Spotlight Search**: <kbd>Ctrl</kbd> + <kbd>/</kbd> → type → press **Enter** to copy/navigate.
+- **Omnibox**: `pt` + <kbd>Space</kbd> → search snippets directly from the address bar.
+
+---
 
 ## 🛠️ Configuration
-Go to the **Options** page to:
-*   Manage your snippets (Edit/Delete).
-*   Create custom categories.
-*   Toggle sound effects.
-*   Switch themes manually (Light/Dark/Auto).
-*   Backup or Restore your data.
+From **Options Page**:
+- Edit/Delete snippets.
+- Create categories.
+- Toggle sound effects.
+- Switch theme (Light/Dark/Auto).
+- Backup/Restore your data.
+
+---
 
 ## 👨‍💻 Credits
 Created by **[AcrNischal](https://nishchalacharya.com.np)**.
@@ -55,4 +75,5 @@ Created by **[AcrNischal](https://nishchalacharya.com.np)**.
 Check out the code on [GitHub](https://github.com/AcrNischal).
 
 ---
-*Built with vanilla JavaScript, HTML, and CSS. No external frameworks.*
+
+*Built with Vanilla JS, HTML & CSS. No frameworks needed.*
