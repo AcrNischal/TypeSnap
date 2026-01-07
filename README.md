@@ -1,6 +1,6 @@
 # TypeSnap 🚀
 
-![TypeSnap Logo](https://img.icons8.com/fluency/48/000000/text.png)
+![TypeSnap Logo](https://github.com/AcrNischal/TypeSnap/blob/main/icons/icon128.png)
 
 **TypeSnap** is a sleek, privacy-first text expander extension for your browser. Expand your productivity with instant custom snippets anywhere on the web.
 
