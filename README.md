@@ -27,7 +27,20 @@
 
 ---
 
-## 🚀 Installation
+
+## 🌐 Supported Browsers & Installation
+
+| Browser | Store Installation | Manual Installation |
+|---------|-----------------|-------------------|
+| **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/google-play.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
+| **Firefox** | ![Firefox Add-ons](https://img.icons8.com/color/24/000000/firefox.png) [Firefox Add-ons](https://addons.mozilla.org/) | ![Firefox](https://img.icons8.com/color/24/000000/firefox.png) `Load Temporary Add-on` |
+| **Brave** | ![Brave Store](https://img.icons8.com/color/24/000000/brave.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Brave](https://img.icons8.com/color/24/000000/brave.png) `Load unpacked` |
+| **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://microsoftedge.microsoft.com/addons/) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
+| **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) [Mac App Store](https://apps.apple.com/) | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
+
+---
+
+## 🚀 Manual Installation Process
 
 ### Chrome / Edge / Brave
 1. Clone or download the repo.
