@@ -19,28 +19,15 @@
 
 ---
 
-## 🌐 Supported Browsers
+## 🌐 Supported Browsers & Installation
 
-| Chrome | Firefox | Brave | Edge | Safari |
-|--------|---------|-------|------|--------|
-| ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/color/48/000000/brave.png) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
-
----
-
-## 🚀 Installation
-
-### Chrome / Edge / Brave
-1. Clone or download the repo.
-2. Open `chrome://extensions/`.
-3. Enable **Developer mode**.
-4. Click **Load unpacked**.
-5. Select this project folder.
-
-### Firefox
-1. Clone or download the repo.
-2. Open `about:debugging#/runtime/this-firefox`.
-3. Click **Load Temporary Add-on...**.
-4. Select `manifest-firefox.json` (or any file in the directory).
+| Browser | Store Installation | Manual Installation |
+|---------|-----------------|-------------------|
+| **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/google-play.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
+| **Firefox** | ![Firefox Add-ons](https://img.icons8.com/color/24/000000/firefox.png) [Firefox Add-ons](https://addons.mozilla.org/) | ![Firefox](https://img.icons8.com/color/24/000000/firefox.png) `Load Temporary Add-on` |
+| **Brave** | ![Brave Store](https://img.icons8.com/color/24/000000/brave.png) [Chrome Web Store](https://chrome.google.com/webstore/) | ![Brave](https://img.icons8.com/color/24/000000/brave.png) `Load unpacked` |
+| **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://microsoftedge.microsoft.com/addons/) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
+| **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) [Mac App Store](https://apps.apple.com/) | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
 
 ---
 
