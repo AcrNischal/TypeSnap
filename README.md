@@ -5,20 +5,6 @@
 **TypeSnap** is a sleek, privacy-first text expander extension for your browser. Expand your productivity with instant custom snippets anywhere on the web.
 
 ---
-
-## ✨ Features
-
-- **Text Expansion**: Type a short trigger (e.g., `/em`) to expand it into a full email or phrase instantly.
-- **Spotlight Search**: Press <kbd>Ctrl</kbd> + <kbd>/</kbd> (or <kbd>Cmd</kbd> + <kbd>/</kbd> on Mac) to search snippets globally.
-- **Omnibox Integration**: Type `pt` <kbd>Space</kbd> in your browser address bar to search & navigate URL snippets.
-- **Organized Snippets**: Categorize snippets (General, Work, Email, etc.) and mark favorites.
-- **Audio Feedback**: Optional satisfying sound effects when snippets expand.
-- **Privacy First**: All data stays local. No cloud sync. No tracking. 😎
-- **Theme Aware**: Auto adapts to your system Light/Dark mode.
-- **Backup & Restore**: Import/export your snippets via JSON easily.
-
----
-
 ## 🌐 Supported Browsers
 
 | Chrome | Firefox | Brave | Edge | Safari |
@@ -35,7 +21,7 @@
 | **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/chrome.png) [Chrome Web Store](https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
 | **Firefox** | ![Firefox Add-ons](https://img.icons8.com/color/24/000000/firefox.png) [Firefox Add-ons](https://addons.mozilla.org/) | ![Firefox](https://img.icons8.com/color/24/000000/firefox.png) `Load Temporary Add-on` |
 | **Brave** | ![Brave Store](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) [Chrome Web Store](https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc) | ![Brave](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) `Load unpacked` |
-| **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://microsoftedge.microsoft.com/addons/) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
+| **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://chromewebstore.google.com/detail/oajhjilojeapnbmgolopfehnicimbekc?utm_source=item-share-cb) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
 | **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) Not Available | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
 
 ---
@@ -54,6 +40,20 @@
 2. Open `about:debugging#/runtime/this-firefox`.
 3. Click **Load Temporary Add-on...**.
 4. Select `manifest-firefox.json` (or any file in the directory).
+
+---
+
+
+## ✨ Features
+
+- **Text Expansion**: Type a short trigger (e.g., `/em`) to expand it into a full email or phrase instantly.
+- **Spotlight Search**: Press <kbd>Ctrl</kbd> + <kbd>/</kbd> (or <kbd>Cmd</kbd> + <kbd>/</kbd> on Mac) to search snippets globally.
+- **Omnibox Integration**: Type `pt` <kbd>Space</kbd> in your browser address bar to search & navigate URL snippets.
+- **Organized Snippets**: Categorize snippets (General, Work, Email, etc.) and mark favorites.
+- **Audio Feedback**: Optional satisfying sound effects when snippets expand.
+- **Privacy First**: All data stays local. No cloud sync. No tracking. 😎
+- **Theme Aware**: Auto adapts to your system Light/Dark mode.
+- **Backup & Restore**: Import/export your snippets via JSON easily.
 
 ---
 
