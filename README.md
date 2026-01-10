@@ -12,6 +12,15 @@
 | ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/?size=48&id=cM42lftaD9Z3&format=png&color=000000) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
 
 ---
+<a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank" style="text-decoration:none;">
+  <button>
+    Install on
+    <img src="https://img.icons8.com/color/20/chrome.png"/>
+    <img src="https://img.icons8.com/color/20/ms-edge.png"/>
+    <img src="https://img.icons8.com/color/20/opera.png"/>
+    <img src="https://img.icons8.com/?size=20&id=cM42lftaD9Z3&format=png&color=000000"/>
+  </button>
+</a>
 
 
 ## 🌐 Installation
