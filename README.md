@@ -7,9 +7,9 @@
 ---
 ## 🌐 Supported Browsers
 
-| Chrome | Firefox | Brave | Edge | Safari |
-|--------|---------|-------|------|--------|
-| ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/?size=48&id=cM42lftaD9Z3&format=png&color=000000) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
+| Chrome | Firefox | Brave | Edge | Safari | **Opera** |
+|--------|---------|-------|------|--------|-----------|
+| ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/?size=48&id=cM42lftaD9Z3&format=png&color=000000) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) | ![Opera](https://img.icons8.com/color/48/000000/opera.png) |
 
 ---
 
