@@ -16,34 +16,27 @@
 
 ### Browser Extensions
 
-<a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc"
-   target="_blank"
-   style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#1a73e8;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:pointer;transition:background 0.2s ease;margin:4px;"
-   onmouseover="this.style.background='#0d62d9'" 
-   onmouseout="this.style.background='#1a73e8'">
-  <span>Install on</span>
-  <span style="display:inline-flex;gap:4px;">
-    <img src="https://img.icons8.com/color/16/chrome.png" alt="Chrome" width="16" height="16"/>
-    <img src="https://img.icons8.com/color/16/ms-edge.png" alt="Edge" width="16" height="16"/>
-    <img src="https://img.icons8.com/color/16/brave-web-browser.png" alt="Brave" width="16" height="16"/>
-    <img src="https://img.icons8.com/color/16/opera.png" alt="Opera" width="16" height="16"/>
-  </span>
+<a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank" style="text-decoration:none;display:inline-block;margin-right:10px;">
+  <div style="display:inline-flex;align-items:center;gap:6px;background:#1a73e8;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;white-space:nowrap;">
+    Install on
+    <img src="https://img.icons8.com/color/16/chrome.png" alt="Chrome" style="width:16px;height:16px;vertical-align:middle;">
+    <img src="https://img.icons8.com/color/16/ms-edge.png" alt="Edge" style="width:16px;height:16px;vertical-align:middle;">
+    <img src="https://img.icons8.com/color/16/brave-web-browser.png" alt="Brave" style="width:16px;height:16px;vertical-align:middle;">
+    <img src="https://img.icons8.com/color/16/opera.png" alt="Opera" style="width:16px;height:16px;vertical-align:middle;">
+  </div>
 </a>
 
-<a href="https://addons.mozilla.org/firefox/addon/typesnap/"
-   target="_blank"
-   style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#e66000;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:pointer;transition:background 0.2s ease;margin:4px;"
-   onmouseover="this.style.background='#d45500'" 
-   onmouseout="this.style.background='#e66000'">
-  <span>Install on</span>
-  <img src="https://img.icons8.com/color/16/firefox.png" alt="Firefox" width="16" height="16"/>
+<a href="https://addons.mozilla.org/firefox/addon/typesnap/" target="_blank" style="text-decoration:none;display:inline-block;margin-right:10px;">
+  <div style="display:inline-flex;align-items:center;gap:6px;background:#e66000;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;white-space:nowrap;">
+    Install on
+    <img src="https://img.icons8.com/color/16/firefox.png" alt="Firefox" style="width:16px;height:16px;vertical-align:middle;">
+  </div>
 </a>
 
-<span style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#6e7781;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:not-allowed;margin:4px;opacity:0.8;">
-  <span>Install on Safari (Manual only)</span>
-  <img src="https://img.icons8.com/color/16/safari.png" alt="Safari" width="16" height="16"/>
-</span>
-
+<div style="display:inline-flex;align-items:center;gap:6px;background:#6e7781;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:not-allowed;opacity:0.8;white-space:nowrap;">
+  Install on Safari (Manual only)
+  <img src="https://img.icons8.com/color/16/safari.png" alt="Safari" style="width:16px;height:16px;vertical-align:middle;">
+</div>
 
 
 ## 🌐 Installation
