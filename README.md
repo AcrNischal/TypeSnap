@@ -16,28 +16,45 @@
 
 ### Browser Extensions
 
-<a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank" style="text-decoration:none;display:inline-block;margin-right:10px;">
-  <div style="display:inline-flex;align-items:center;gap:6px;background:#1a73e8;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;white-space:nowrap;">
+<table>
+<tr>
+<td>
+
+<a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank" style="text-decoration:none;">
+  <div style="display:inline-flex;align-items:center;gap:8px;background:#1a73e8;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;">
     Install on
-    <img src="https://img.icons8.com/color/16/chrome.png" alt="Chrome" style="width:16px;height:16px;vertical-align:middle;">
-    <img src="https://img.icons8.com/color/16/ms-edge.png" alt="Edge" style="width:16px;height:16px;vertical-align:middle;">
-    <img src="https://img.icons8.com/color/16/brave-web-browser.png" alt="Brave" style="width:16px;height:16px;vertical-align:middle;">
-    <img src="https://img.icons8.com/color/16/opera.png" alt="Opera" style="width:16px;height:16px;vertical-align:middle;">
+    <img src="https://img.icons8.com/color/16/chrome.png" alt="Chrome" style="width:16px;height:16px;">
+    <img src="https://img.icons8.com/color/16/ms-edge.png" alt="Edge" style="width:16px;height:16px;">
+    <img src="https://img.icons8.com/color/16/brave-web-browser.png" alt="Brave" style="width:16px;height:16px;">
+    <img src="https://img.icons8.com/color/16/opera.png" alt="Opera" style="width:16px;height:16px;">
   </div>
 </a>
 
-<a href="https://addons.mozilla.org/firefox/addon/typesnap/" target="_blank" style="text-decoration:none;display:inline-block;margin-right:10px;">
-  <div style="display:inline-flex;align-items:center;gap:6px;background:#e66000;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;white-space:nowrap;">
+</td>
+</tr>
+<tr>
+<td>
+
+<a href="https://addons.mozilla.org/firefox/addon/typesnap/" target="_blank" style="text-decoration:none;">
+  <div style="display:inline-flex;align-items:center;gap:8px;background:#e66000;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:pointer;margin-top:10px;">
     Install on
-    <img src="https://img.icons8.com/color/16/firefox.png" alt="Firefox" style="width:16px;height:16px;vertical-align:middle;">
+    <img src="https://img.icons8.com/color/16/firefox.png" alt="Firefox" style="width:16px;height:16px;">
   </div>
 </a>
 
-<div style="display:inline-flex;align-items:center;gap:6px;background:#6e7781;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:not-allowed;opacity:0.8;white-space:nowrap;">
+</td>
+</tr>
+<tr>
+<td>
+
+<div style="display:inline-flex;align-items:center;gap:8px;background:#6e7781;color:white;padding:10px 16px;border-radius:6px;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;border:none;cursor:not-allowed;opacity:0.8;margin-top:10px;">
   Install on Safari (Manual only)
-  <img src="https://img.icons8.com/color/16/safari.png" alt="Safari" style="width:16px;height:16px;vertical-align:middle;">
+  <img src="https://img.icons8.com/color/16/safari.png" alt="Safari" style="width:16px;height:16px;">
 </div>
 
+</td>
+</tr>
+</table>
 
 ## 🌐 Installation
 
