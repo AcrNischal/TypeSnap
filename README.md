@@ -12,7 +12,8 @@
 | ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/?size=48&id=cM42lftaD9Z3&format=png&color=000000) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
 
 ---
-## 🚀 Installation
+
+## 🌐 Store Installation
 
 <a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/1.png" height="50">
@@ -20,17 +21,9 @@
 <a href="https://addons.mozilla.org/firefox/addon/typesnap/" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/2.png" height="50">
 </a>
-<img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/3.png" height="50">
-
-## 🌐 Installation
-
-| Browser | Store Installation | Manual Installation |
-|---------|-----------------|-------------------|
-| **Chrome** | ![Chrome Store](https://img.icons8.com/color/24/000000/chrome.png) [Chrome Web Store](https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc) | ![Chrome](https://img.icons8.com/color/24/000000/chrome.png) `Load unpacked` |
-| **Firefox** | ![Firefox Add-ons](https://img.icons8.com/color/24/000000/firefox.png) [Firefox Add-ons](https://addons.mozilla.org/) | ![Firefox](https://img.icons8.com/color/24/000000/firefox.png) `Load Temporary Add-on` |
-| **Brave** | ![Brave Store](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) [Chrome Web Store](https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc) | ![Brave](https://img.icons8.com/?size=24&id=cM42lftaD9Z3&format=png&color=000000) `Load unpacked` |
-| **Edge** | ![Edge Add-ons](https://img.icons8.com/color/24/000000/ms-edge.png) [Edge Add-ons](https://chromewebstore.google.com/detail/oajhjilojeapnbmgolopfehnicimbekc?utm_source=item-share-cb) | ![Edge](https://img.icons8.com/color/24/000000/ms-edge.png) `Load unpacked` |
-| **Safari** | ![Safari](https://img.icons8.com/color/24/000000/safari.png) Not Available | ![Safari](https://img.icons8.com/color/24/000000/safari.png) `Developer Mode` |
+<a href="#">
+  <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/3.png" height="50">
+</a>
 
 ---
 
