@@ -14,16 +14,12 @@
 ---
 ## 🚀 Installation
 
-### Browser Extensions
-
 <a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/1.png" height="50">
 </a>
-
 <a href="https://addons.mozilla.org/firefox/addon/typesnap/" target="_blank">
   <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/2.png" height="50">
 </a>
-
 <img src="https://github.com/AcrNischal/TypeSnap/raw/main/images/3.png" height="50">
 
 ## 🌐 Installation
