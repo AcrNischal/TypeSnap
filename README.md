@@ -12,25 +12,37 @@
 | ![Chrome](https://img.icons8.com/color/48/000000/chrome.png) | ![Firefox](https://img.icons8.com/color/48/000000/firefox.png) | ![Brave](https://img.icons8.com/?size=48&id=cM42lftaD9Z3&format=png&color=000000) | ![Edge](https://img.icons8.com/color/48/000000/ms-edge.png) | ![Safari](https://img.icons8.com/color/48/000000/safari.png) |
 
 ---
+## 🚀 Installation
+
+### Browser Extensions
+
 <a href="https://chromewebstore.google.com/detail/typesnap-snippet-manager/oajhjilojeapnbmgolopfehnicimbekc"
    target="_blank"
-   style="
-     display:inline-flex;
-     align-items:center;
-     gap:6px;
-     padding:10px 14px;
-     background:#1f6feb;
-     color:white;
-     border-radius:8px;
-     text-decoration:none;
-     font-weight:600;
-   ">
-  Install on
-  <img src="https://img.icons8.com/color/20/chrome.png"/>
-  <img src="https://img.icons8.com/color/20/ms-edge.png"/>
-  <img src="https://img.icons8.com/color/20/opera.png"/>
-  <img src="https://img.icons8.com/?size=20&id=cM42lftaD9Z3&format=png&color=000000"/>
+   style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#1a73e8;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:pointer;transition:background 0.2s ease;margin:4px;"
+   onmouseover="this.style.background='#0d62d9'" 
+   onmouseout="this.style.background='#1a73e8'">
+  <span>Install on</span>
+  <span style="display:inline-flex;gap:4px;">
+    <img src="https://img.icons8.com/color/16/chrome.png" alt="Chrome" width="16" height="16"/>
+    <img src="https://img.icons8.com/color/16/ms-edge.png" alt="Edge" width="16" height="16"/>
+    <img src="https://img.icons8.com/color/16/brave-web-browser.png" alt="Brave" width="16" height="16"/>
+    <img src="https://img.icons8.com/color/16/opera.png" alt="Opera" width="16" height="16"/>
+  </span>
 </a>
+
+<a href="https://addons.mozilla.org/firefox/addon/typesnap/"
+   target="_blank"
+   style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#e66000;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:pointer;transition:background 0.2s ease;margin:4px;"
+   onmouseover="this.style.background='#d45500'" 
+   onmouseout="this.style.background='#e66000'">
+  <span>Install on</span>
+  <img src="https://img.icons8.com/color/16/firefox.png" alt="Firefox" width="16" height="16"/>
+</a>
+
+<span style="display:inline-flex;align-items:center;gap:8px;padding:12px 18px;background:#6e7781;color:white;border-radius:8px;text-decoration:none;font-weight:600;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;border:none;cursor:not-allowed;margin:4px;opacity:0.8;">
+  <span>Install on Safari (Manual only)</span>
+  <img src="https://img.icons8.com/color/16/safari.png" alt="Safari" width="16" height="16"/>
+</span>
 
 
 
